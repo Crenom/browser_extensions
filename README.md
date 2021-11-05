@@ -3,7 +3,7 @@
 
 #### Полезная информация
 В popup.html нельзя объявлять вообще никакие скрипты, также и события.  
-То есть вместо  
+Тоесть вместо  
 ```
 <input type="button" value="Play" onClick="PlaySound('strawberry_fields.mp3')">
 ```
